@@ -1,0 +1,4 @@
+#Fri May 03 12:36:57 CEST 2019
+base.0=E\:\\STUDIA_DRUGI_STOPIEN\\tensorflow-kwiatki\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=E\:\\STUDIA_DRUGI_STOPIEN\\tensorflow-kwiatki\\tensorflow-for-poets-2\\android\\tflite\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

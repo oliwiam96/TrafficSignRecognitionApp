@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\6bd04de979bbe1b7331917a9e8f0cf2a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\735dd4b2bc5c7f4eb860574b811f362c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa377fac35c7071e1a3cd3861f119506\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\ad365c27570a55cd2f2e721db5eb4c82\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\a178b30c85ade836f742e2179f132d9b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\3667b51125b6f67bec27106e923de486\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\fcb988a7be7e2256f11041a99d286a1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\b1791805da7052e78e1a636c48159411\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\09f965d575b7938c0c30804a0b9897b4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5b193b293e9bc60de4b9733b6917cef2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\41f3ef686a4962d5f00727ecc485cf53\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\86b289f6f3959ccecb4c811cd58b676f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\0b3223694346606d4f20e1b0aad4f83e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0a3ab6fbca4cb56763fab88530650526\AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\558d70f97ab97256bb9565735adfddeb\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\6bd04de979bbe1b7331917a9e8f0cf2a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\6bd04de979bbe1b7331917a9e8f0cf2a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\735dd4b2bc5c7f4eb860574b811f362c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\735dd4b2bc5c7f4eb860574b811f362c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa377fac35c7071e1a3cd3861f119506\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa377fac35c7071e1a3cd3861f119506\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\ad365c27570a55cd2f2e721db5eb4c82\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\ad365c27570a55cd2f2e721db5eb4c82\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\a178b30c85ade836f742e2179f132d9b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\a178b30c85ade836f742e2179f132d9b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\3667b51125b6f67bec27106e923de486\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\3667b51125b6f67bec27106e923de486\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\b1791805da7052e78e1a636c48159411\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\b1791805da7052e78e1a636c48159411\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\09f965d575b7938c0c30804a0b9897b4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\09f965d575b7938c0c30804a0b9897b4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5b193b293e9bc60de4b9733b6917cef2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5b193b293e9bc60de4b9733b6917cef2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\41f3ef686a4962d5f00727ecc485cf53\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\41f3ef686a4962d5f00727ecc485cf53\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\86b289f6f3959ccecb4c811cd58b676f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\86b289f6f3959ccecb4c811cd58b676f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\0b3223694346606d4f20e1b0aad4f83e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\0b3223694346606d4f20e1b0aad4f83e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0a3ab6fbca4cb56763fab88530650526\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0a3ab6fbca4cb56763fab88530650526\AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\558d70f97ab97256bb9565735adfddeb\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\558d70f97ab97256bb9565735adfddeb\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:31:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\6bd04de979bbe1b7331917a9e8f0cf2a\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\6bd04de979bbe1b7331917a9e8f0cf2a\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\735dd4b2bc5c7f4eb860574b811f362c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\735dd4b2bc5c7f4eb860574b811f362c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa377fac35c7071e1a3cd3861f119506\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fa377fac35c7071e1a3cd3861f119506\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\ad365c27570a55cd2f2e721db5eb4c82\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\ad365c27570a55cd2f2e721db5eb4c82\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\a178b30c85ade836f742e2179f132d9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\a178b30c85ade836f742e2179f132d9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\3667b51125b6f67bec27106e923de486\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\3667b51125b6f67bec27106e923de486\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\fcb988a7be7e2256f11041a99d286a1b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\fcb988a7be7e2256f11041a99d286a1b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\b1791805da7052e78e1a636c48159411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\b1791805da7052e78e1a636c48159411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\09f965d575b7938c0c30804a0b9897b4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\09f965d575b7938c0c30804a0b9897b4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5b193b293e9bc60de4b9733b6917cef2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5b193b293e9bc60de4b9733b6917cef2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\41f3ef686a4962d5f00727ecc485cf53\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\41f3ef686a4962d5f00727ecc485cf53\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\86b289f6f3959ccecb4c811cd58b676f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\86b289f6f3959ccecb4c811cd58b676f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\0b3223694346606d4f20e1b0aad4f83e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\0b3223694346606d4f20e1b0aad4f83e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0a3ab6fbca4cb56763fab88530650526\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0a3ab6fbca4cb56763fab88530650526\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\558d70f97ab97256bb9565735adfddeb\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\558d70f97ab97256bb9565735adfddeb\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Oliwia\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\6bd04de979bbe1b7331917a9e8f0cf2a\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from E:\STUDIA_DRUGI_STOPIEN\tensorflow-kwiatki\tensorflow-for-poets-2\android\tflite\app\src\main\AndroidManifest.xml
