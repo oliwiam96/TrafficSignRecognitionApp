@@ -57,8 +57,8 @@ public class ImageClassifier {
 
   private static final int DIM_PIXEL_SIZE = 3;
 
-  static final int DIM_IMG_SIZE_X = 128; // 228 kiedy kwiatki lub wieksza siec
-  static final int DIM_IMG_SIZE_Y = 128;
+  static final int DIM_IMG_SIZE_X = 30; // 228 kiedy kwiatki lub wieksza siec
+  static final int DIM_IMG_SIZE_Y = 30;
 
   private static final int IMAGE_MEAN = 128;
   private static final float IMAGE_STD = 128.0f;
