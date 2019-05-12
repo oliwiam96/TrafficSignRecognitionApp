@@ -57,11 +57,11 @@ public class ImageClassifier {
 
   private static final int DIM_PIXEL_SIZE = 3;
 
-  static final int DIM_IMG_SIZE_X = 30; // 228 kiedy kwiatki lub wieksza siec
-  static final int DIM_IMG_SIZE_Y = 30;
+  static final int DIM_IMG_SIZE_X = 88; // 228 kiedy kwiatki lub wieksza siec
+  static final int DIM_IMG_SIZE_Y = 88;
 
-  private static final int IMAGE_MEAN = 128;
-  private static final float IMAGE_STD = 128.0f;
+  private static final int IMAGE_MEAN = 0;
+  private static final float IMAGE_STD = 255f;
 
 
   /* Preallocated buffers for storing image data in. */
@@ -194,9 +194,9 @@ public class ImageClassifier {
     for (int i = 0; i < DIM_IMG_SIZE_X; ++i) {
       for (int j = 0; j < DIM_IMG_SIZE_Y; ++j) {
         final int val = intValues[pixel++];
-        imgData.putFloat((((val >> 16) & 0xFF)-IMAGE_MEAN)/IMAGE_STD);
-        imgData.putFloat((((val >> 8) & 0xFF)-IMAGE_MEAN)/IMAGE_STD);
         imgData.putFloat((((val) & 0xFF)-IMAGE_MEAN)/IMAGE_STD);
+        imgData.putFloat((((val >> 8) & 0xFF)-IMAGE_MEAN)/IMAGE_STD);
+        imgData.putFloat((((val >> 16) & 0xFF)-IMAGE_MEAN)/IMAGE_STD);
       }
     }
     long endTime = SystemClock.uptimeMillis();
